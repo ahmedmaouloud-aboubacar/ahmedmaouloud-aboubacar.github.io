@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://ahmedmaouloud-aboubacar.github.io"
 
 # Theme settings
-theme: minima
+theme: jekyll-theme-minimal
 
 # Plugins
 plugins:
