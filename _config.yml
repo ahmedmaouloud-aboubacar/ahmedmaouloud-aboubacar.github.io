@@ -1,6 +1,6 @@
 # Site settings
 title: Aboubacar AhmedMaouloud's Portfolio
-# logo:
+# logo:logolocalpath
 description: Portfolio website showcasing projects and skills
 baseurl: ""
 url: "https://ahmedmaouloud-aboubacar.github.io"
