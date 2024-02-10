@@ -1,0 +1,44 @@
+# Site settings
+title: Aboubacar AhmedMaouloud's Portfolio
+# logo:
+description: Portfolio website showcasing projects and skills
+baseurl: ""
+url: "https://ahmedmaouloud-aboubacar.github.io"
+
+# Theme settings
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Markdown options
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+# Navigation links
+nav_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Contact
+    url: /contact
+
+# Social media links
+social_media:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aboubacar-ahmed-maouloud-3b403b188
+  - title: GitHub
+    url: https://github.com/ahmedmaouloud-aboubacar
