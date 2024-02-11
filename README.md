@@ -32,31 +32,30 @@ I completed my Master's degree in Applied Mathematics and Data Sciences in Moroc
 - Pandas
 - Matplotlib
 - Tableau
-- 
 
 ### Mathematical Modeling
 - Differential Equations
 - Optimization Techniques
-- Statistical Analysis
+- Numerical Analysis
 
 ## Projects
 
 ### 1. SQL Data Exploration
 Description: project focuses on practicing Data Analyst portfolio projects inspired by tutorials from "Alex the Analyst" YouTube channel. The primary objective is to strengthen SQL skills and gain hands-on experience in data exploration and analysis.
 
-Link: [SQL Data Exploration](https://github.com/ahmedmaouloud-aboubacar/SQL-Data-Exploration-Project-1)
+Link: [SQL Data Exploration](https://github.com/ahmedmaouloud-aboubacar/PortflioProjects-1/SQL-Data-Exploration)
 
 ### 2. Tableau Visualization
 Description: Conducted thorough creation   visualizations using Tableau for clear insights.
 
-Link: [Tableau Visualization](https://github.com/ahmedmaouloud-aboubacar/Tableau-Visualization)
+Link: [Tableau Visualization](https://github.com/ahmedmaouloud-aboubacar/PortflioProjects-1/Tableau-Visualization)
 
 ### 3. Data Cleaning In SQL
 Description: Employed SQL techniques to clean and preprocess raw data for analysis, ensuring data quality and accuracy.
-Link: [Data Cleaning In SQL](https://github.com/ahmedmaouloud-aboubacar/Data-Cleaning-In-SQL)
+Link: [Data Cleaning In SQL](https://github.com/ahmedmaouloud-aboubacar/PortflioProjects-1/Data-Cleaning-In-SQL)
 ### 4. Correlation in Python
 Description: Utilized Python to analyze correlation between variables in a dataset, providing insights into relationships among data attributes.
-Link: [Data Cleaning In SQL](https://github.com/ahmedmaouloud-aboubacar/Correlation-in-Python)
+Link: [Data Cleaning In SQL](https://github.com/ahmedmaouloud-aboubacar/PortflioProjects-1/Correlation-in-Python)
 
 ## Contact Me
 
