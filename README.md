@@ -43,22 +43,24 @@ I completed my Master's degree in Applied Mathematics and Data Sciences in Moroc
 
 ## Projects
 
-### 1. SQL Data Exploration
+### 1. COVID-19 DATA EXPLORATION
 Description: project focuses on practicing Data Analyst portfolio projects inspired by tutorials from "Alex the Analyst" YouTube channel. The primary objective is to strengthen SQL skills and gain hands-on experience in data exploration and analysis.
 
-Link: [SQL Data Exploration](https://github.com/ahmedmaouloud-aboubacar/PortflioProjects-1/SQL-Data-Exploration)
+Link: [COVID-19 DATA EXPLORATION](https://github.com/ahmedmaouloud-aboubacar/MyPortfolioProjects-1/blob/main/SQL-Data-Exploration/SQLQueryDataExploration.sql)
 
-### 2. Tableau Visualization
+### 2. COVID-19 Tableau Visualization
 Description: Conducted thorough creation   visualizations using Tableau for clear insights.
 
-Link: [Tableau Visualization](https://public.tableau.com/views/MyCovid19DashboardTutorial/MyFirstDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Link: [COVID-19 Tableau Visualization]
 
-### 3. Data Cleaning In SQL
+### 3. NashvilleHousing Data Cleaning In SQL
 Description: Employed SQL techniques to clean and preprocess raw data for analysis, ensuring data quality and accuracy.
-Link: [Data Cleaning In SQL](https://github.com/ahmedmaouloud-aboubacar/PortflioProjects-1/Data-Cleaning-In-SQL)
-### 4. Correlation in Python
+
+Link: [Data Cleaning In SQL](https://github.com/ahmedmaouloud-aboubacar/MyPortfolioProjects-1/blob/main/Data-Cleaning-In-SQL/SQLQueryDataCleaningNashvillHousing.sql)
+### 4. MOVIES CORRELATION WITH PYTHON
 Description: Utilized Python to analyze correlation between variables in a dataset, providing insights into relationships among data attributes.
-Link: [Data Cleaning In SQL](https://github.com/ahmedmaouloud-aboubacar/PortflioProjects-1/Correlation-in-Python)
+
+Link: [MOVIES CORRELATION WITH PYTHON](https://github.com/ahmedmaouloud-aboubacar/MyPortfolioProjects-1/blob/main/Movies-Correlation-With-Python/CorolationInPython.ipynb)
 
 ## Contact Me
 
