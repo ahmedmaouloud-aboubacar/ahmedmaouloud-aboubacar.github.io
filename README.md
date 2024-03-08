@@ -8,8 +8,8 @@ I am Aboubacar AhmedMaouloud, a data enthusiast with a background in Applied Mat
 
 ## Academic Background
 
-- **Master's degree in Applied Mathematics and Data Sciences**: Specialization in Partial Differential Equations and Analysis.
-- **Bachelor's degree in Mathematics**: Specialization in Applied Mathematics.
+- **Master's degree in Applied Mathematics and Data Sciences**: Specialization in Partial Differential Equations and Numerical Analysis.
+- **Bachelor's degree in Mathematics**: Specialization in Mathematics,Applications.
 
 ## Master's Degree in Applied Mathematics and Data Sciences
 
@@ -31,7 +31,10 @@ I completed my Master's degree in Applied Mathematics and Data Sciences in Moroc
 ### Data Analysis and Visualization
 - Pandas
 - Matplotlib
-- Tableau
+- Tableau/PowerBI(In progress)
+- Data Manipulation
+- Data Cleaning
+- Data Validation
 
 ### Mathematical Modeling
 - Differential Equations
@@ -48,7 +51,7 @@ Link: [SQL Data Exploration](https://github.com/ahmedmaouloud-aboubacar/Portflio
 ### 2. Tableau Visualization
 Description: Conducted thorough creation   visualizations using Tableau for clear insights.
 
-Link: [Tableau Visualization](https://github.com/ahmedmaouloud-aboubacar/PortflioProjects-1/Tableau-Visualization)
+Link: [Tableau Visualization](https://public.tableau.com/views/MyCovid19DashboardTutorial/MyFirstDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### 3. Data Cleaning In SQL
 Description: Employed SQL techniques to clean and preprocess raw data for analysis, ensuring data quality and accuracy.
